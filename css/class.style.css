@@ -1,0 +1,88 @@
+.bg1 {
+   background-color: #A6A6A6;
+}
+
+.bg2 {
+   background-color: #262626;
+}
+
+.bg3 {
+   background-color: #23c5b0;
+}
+.bg4 {
+      background-color: #0D0D0D;
+}
+
+.mt-0 {
+   margin-top: 0;
+}
+
+.miku {
+   color: #23C5B0;
+   font-size: 18px;
+}
+.miku1 {
+   color: #ffffff;
+   font-size: 18px;
+}
+
+.miku2 {
+   font-family: "Mitr", sans-serif;
+   color: #23C5B0;
+   font-size: 60px;
+}
+
+.miku3 {
+   font-family: "Mitr", sans-serif;
+   color: #ffffff;
+   font-size: 40px;
+}
+.miku4 {
+   font-family: "Mitr", sans-serif;
+   color: #ffffff;
+   font-size: 40px;
+}
+
+.miku5 {
+   font-family: "Cal Sans", sans-serif;
+   color: #23C5B0;
+   font-size: 100px;
+}
+
+
+.mitr {
+   font-family: "Mitr", sans-serif;
+   font-weight: 300;
+   font-style: normal;
+}
+
+.blacl-f {
+   font-family: "Mitr", sans-serif;
+   color: #fdffff;
+   font-size: 20px;
+}
+
+.blacl-s {
+   font-family: "Mitr", sans-serif;
+   color: #818181;
+   font-size: 10px;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.img-right {
+  padding: 0 !important;       /* เอาช่องว่างออก */
+  display: flex;
+  justify-content: flex-end;    /* ดันรูปไปชิดขอบขวา */
+  background-color: #262626;       /* พื้นหลังขาว */
+}
+
+.right-img {
+  width: 70%;        /*เต็มคอลัมน์ด้านขวา */
+  height: 91vh;        /*สูงเต็มหน้าจอ */
+  object-fit: cover;    /*ขยายรูปให้เต็มโดยไม่บิดเบี้ยว */
+  display: block;
+  padding: top 70px;;
+}

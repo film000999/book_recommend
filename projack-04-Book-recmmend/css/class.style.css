@@ -1,0 +1,47 @@
+.bg1 {
+  background-color: #ffffff;
+}
+.bg2 {
+  background-color: #ecebeb;
+}
+.bg3 {
+  background-color: #23c5b0;
+}
+.mt-0 {
+  margin-top: 0 ;
+}
+.miku {
+   color: #23C5B0;  
+   font-size: 18px;
+}
+
+.miku2 {
+   font-family: "Mitr", sans-serif;
+   color: #23C5B0;  
+   font-size: 40px;
+}
+.miku3 {
+   font-family: "Mitr", sans-serif;
+   color: #ffffff;  
+   font-size: 40px;
+}
+.miku4 {
+   font-family: "Mitr", sans-serif;
+   color: #ffffff;  
+   font-size: 25px;
+}
+.mitr {
+  font-family: "Mitr", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.blacl-f {
+   font-family: "Mitr", sans-serif;
+   color: #0f2421;  
+   font-size: 20px;
+}
+.blacl-s {
+   font-family: "Mitr", sans-serif;
+   color: #818181;  
+   font-size: 10px;
+}
